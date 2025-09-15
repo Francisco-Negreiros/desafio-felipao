@@ -1,2 +1,0 @@
-// Ainda será implementado
-seraimplementadodepois
